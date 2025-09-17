@@ -70,19 +70,19 @@
 
 <p align="center">
   <!-- Substitua SEU_USUARIO_GITHUB pelo seu usuário do GitHub -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=augustoramos07&show_icons=true&theme=default&hide_border=true&count_private=true&custom_title=Augusto%20Ramos%20GitHub%20Stats" alt="Augusto Ramos GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoramos07&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=augustoramos000&show_icons=true&theme=default&hide_border=true&count_private=true&custom_title=Augusto%20Ramos%20GitHub%20Stats" alt="Augusto Ramos GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoramos000&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=augustoramos07&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=augustoramos000&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 💬 Como me encontrar
 
-- 💼 LinkedIn: https://www.linkedin.com/in/augustoramos00
+- 💼 LinkedIn: https://www.linkedin.com/in/augustoramos000
 Se quiser bater um papo ou colaborar em algo, me chama! 😄
 
 ---

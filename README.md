@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=GITHUB_USERNAME&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=augustoramos000&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 

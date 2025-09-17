@@ -8,14 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GITHUB_USERNAME">
+  <a href="https://github.com/augustoramos000">
     <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Visualizações de perfil" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Email-SEU_EMAIL_AQUI-red?style=flat&logo=gmail" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-SEU_LINKEDIN-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/augustoramos00-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://SEU_PORTFOLIO_AQUI">
     <img src="https://img.shields.io/badge/Portfólio-acesse-6a5acd?style=flat&logo=vercel" alt="Portfólio" />
@@ -39,28 +36,18 @@
 
 ### Linguagens
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript"/>
 </p>
 
 ### Front-end
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="Bootstrap"/>
 </p>
 
 ### Back-end e DevOps
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub"/>
 </p>
@@ -68,8 +55,6 @@
 ### Bancos de Dados
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB"/>
 </p>
 
 ### IDEs e Ferramentas
@@ -98,11 +83,6 @@
 </p>
 
 
----
-
-## 📝 Artigos e anotações
-
-- Em breve: resumos de estudos e anotações sobre temas importantes (ex.: Big O, SQL avançado, padrões de projeto)
 
 ---
 
@@ -114,12 +94,3 @@ Se quiser bater um papo ou colaborar em algo, me chama! 😄
 
 ---
 
-<!-- Extra opcional: “Snake” das contribuições (requer GitHub Action).
-     Veja instruções no README do repositório Platane/snk. Depois de configurar, descomente abaixo. -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
--->
-
-<!-- Créditos de ferramentas usadas: anuraghazra/github-readme-stats, DenverCoder1/github-readme-streak-stats, devicon, shields.io -->

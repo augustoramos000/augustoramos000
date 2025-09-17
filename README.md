@@ -3,6 +3,7 @@
 <h1 align="center">Olá, eu sou o Augusto! 👋</h1>
 <p align="center">
   Estudante de Ciência da Computação | Em constante aprendizado
+  https://tenor.com/rE2Z6xr84Yo.gif
 </p>
 ---
 ## Sobre mim

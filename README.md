@@ -82,7 +82,7 @@
 
 ## 💬 Como me encontrar
 
-- 💼 LinkedIn: https://www.linkedin.com/in/augustoramos000
+- 💼 LinkedIn: https://www.linkedin.com/in/augustoramos00
 Se quiser bater um papo ou colaborar em algo, me chama! 😄
 
 ---

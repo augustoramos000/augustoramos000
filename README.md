@@ -13,7 +13,6 @@
 
 - 🎓 Estudante de Ciência da Computação
 - 💡 Interesses: back-end, APIs, DevOps, cloud e um pouco de IA
-- 🚀 Objetivo atual: construir projetos reais e colaborar em open source
 - 🌱 Aprendendo: Java, Python, Docker, Git/GitHub e práticas de CI/CD
 
 <br/>
@@ -62,11 +61,8 @@
 
 ## 🧩 Projetos em destaque
 
-- 🔗 Projeto 1 — breve descrição do que faz (tecnologias usadas)
-- 🔗 Projeto 2 — breve descrição do que faz (tecnologias usadas)
-- 🔗 Projeto 3 — breve descrição do que faz (tecnologias usadas)
+- 🔗 
 
-> Dica: escolha projetos que mostrem suas habilidades atuais (APIs, automações, pequenos serviços).
 
 ---
 
@@ -74,12 +70,12 @@
 
 <p align="center">
   <!-- Substitua SEU_USUARIO_GITHUB pelo seu usuário do GitHub -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=default&hide_border=true&count_private=true&custom_title=Augusto%20Ramos%20GitHub%20Stats" alt="Augusto Ramos GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=augustoramos07&show_icons=true&theme=default&hide_border=true&count_private=true&custom_title=Augusto%20Ramos%20GitHub%20Stats" alt="Augusto Ramos GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoramos07&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=augustoramos07&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -87,8 +83,6 @@
 ## 💬 Como me encontrar
 
 - 💼 LinkedIn: https://www.linkedin.com/in/augustoramos00
-- ✉️ Email: coloque seu e-mail aqui
-
 Se quiser bater um papo ou colaborar em algo, me chama! 😄
 
 ---

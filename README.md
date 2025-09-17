@@ -1,15 +1,10 @@
 
-<!-- Perfil GitHub do Augusto -->
-<!-- Dica: renomeie este repositório com o SEU usuário exato para virar o README do perfil. Ex.: GITHUB_USERNAME -> augusto -->
 
 <h1 align="center">Olá, eu sou o Augusto! 👋</h1>
 <p align="center">
   Estudante de Ciência da Computação | Em constante aprendizado
 </p>
 ---
-
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-
 ## Sobre mim
 
 - 🎓 Estudante de Ciência da Computação
@@ -61,8 +56,8 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=augustoramos000&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoramos000&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">

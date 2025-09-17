@@ -13,7 +13,7 @@
 
 - 🎓 Estudante de Ciência da Computação
 - 💡 Interesses: back-end, APIs, DevOps, cloud e um pouco de IA
-- 🌱 Aprendendo: Java, Python, Docker, Git/GitHub e práticas de CI/CD
+
 
 <br/>
 

@@ -6,19 +6,6 @@
 <p align="center">
   Estudante de Ciência da Computação | Em constante aprendizado
 </p>
-
-<p align="center">
-  <a href="https://github.com/augustoramos000">
-    <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Visualizações de perfil" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/augustoramos00-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://SEU_PORTFOLIO_AQUI">
-    <img src="https://img.shields.io/badge/Portfólio-acesse-6a5acd?style=flat&logo=vercel" alt="Portfólio" />
-  </a>
-</p>
-
 ---
 
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />

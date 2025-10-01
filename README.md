@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.tenor.com/rE2Z6xr84YoAAAAi/waving-hello.gif" width="40" alt="Acenando" style="vertical-align: middle; margin-right: 8px;">
-  Olá, eu é o Augusto! 👋
+  Olá, meu nome é Augusto! 👋
 </h1>
 
 <p align="center">

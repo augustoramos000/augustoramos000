@@ -61,7 +61,7 @@
 
 ## 🧩 Projetos em destaque
 
-- 🔗 
+- 🔗 https://github.com/brodyandre/churninsight-nocountry 
 
 
 ---

@@ -74,9 +74,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoramos000&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=augustoramos000&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 

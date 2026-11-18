@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1000 258" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root { --c: #000000; }
+    
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.4s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .rise { opacity: 0; animation: rise .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:translateY(0); } }
+    .fade { opacity: 0; animation: fade .7s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    .dot { animation: p 2.4s ease-in-out infinite; }
+    @keyframes p { 0%,100%{opacity:1} 50%{opacity:.35} }
+    .ring { animation: r 2.4s ease-out infinite; transform-origin: 60px 60px; }
+    @keyframes r { 0%{transform:scale(.4);opacity:.8} 80%,100%{transform:scale(2.6);opacity:0} }
+    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s}
+    .a5{animation-delay:.95s} .a6{animation-delay:1.15s} .a7{animation-delay:1.35s} .a8{animation-delay:1.55s} .a9{animation-delay:1.75s}
+    @media (prefers-reduced-motion: reduce) {
+      .draw,.rise,.fade,.dot,.ring { animation: none; }
+      .draw{stroke-dashoffset:0} .rise,.fade{opacity:1} .ring{opacity:0}
+    }
+    
+  </style>
+<g class="rise a1"><text class="mono" x="48" y="34" font-size="17" fill="var(--c)" letter-spacing="0.8" font-weight="700">01 / CHURNINSIGHT</text><text class="mono" x="48" y="59" font-size="12" fill="var(--c)">Solução de previsão de churn (cancelamento de clientes) feita no programa No Country.</text><text class="mono" x="48" y="78" font-size="12" fill="var(--c)">Une dados, back-end e IA para antecipar quais clientes tendem a sair.</text><text class="mono" x="48" y="97" font-size="11" fill="var(--c)" letter-spacing="0.4">PYTHON · BACK-END · MACHINE LEARNING · NO COUNTRY</text><line class="" x1="48" y1="114" x2="952" y2="114" stroke="var(--c)" stroke-width="1"/></g><g class="rise a3"><text class="mono" x="48" y="158" font-size="17" fill="var(--c)" letter-spacing="0.8" font-weight="700">02 / EM BREVE</text><text class="mono" x="48" y="183" font-size="12" fill="var(--c)">Espaço reservado para o próximo projeto — edite assets/projetos.svg (e a versão dark/).</text><text class="mono" x="48" y="202" font-size="12" fill="var(--c)">Troque este bloco pelo seu repositório em destaque.</text><text class="mono" x="48" y="221" font-size="11" fill="var(--c)" letter-spacing="0.4">— · — · —</text><line class="" x1="48" y1="238" x2="952" y2="238" stroke="var(--c)" stroke-width="1"/></g>
+</svg>

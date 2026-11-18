@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1000 258" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root { --c: #000000; }
+    
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.4s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .rise { opacity: 0; animation: rise .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:translateY(0); } }
+    .fade { opacity: 0; animation: fade .7s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    .dot { animation: p 2.4s ease-in-out infinite; }
+    @keyframes p { 0%,100%{opacity:1} 50%{opacity:.35} }
+    .ring { animation: r 2.4s ease-out infinite; transform-origin: 60px 60px; }
+    @keyframes r { 0%{transform:scale(.4);opacity:.8} 80%,100%{transform:scale(2.6);opacity:0} }
+    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s}
+    .a5{animation-delay:.95s} .a6{animation-delay:1.15s} .a7{animation-delay:1.35s} .a8{animation-delay:1.55s} .a9{animation-delay:1.75s}
+    @media (prefers-reduced-motion: reduce) {
+      .draw,.rise,.fade,.dot,.ring { animation: none; }
+      .draw{stroke-dashoffset:0} .rise,.fade{opacity:1} .ring{opacity:0}
+    }
+    
+  </style>
+<line class="" x1="138" y1="8" x2="138" y2="246" stroke="var(--c)" stroke-width="1" opacity=".4"/><text class="mono rise a1" x="48" y="32" font-size="12" fill="var(--c)" letter-spacing="2">LINGUAGENS</text><text class="mono rise a1" x="154" y="32" font-size="15" fill="var(--c)">JavaScript · TypeScript · Python</text><text class="mono rise a2" x="48" y="64" font-size="12" fill="var(--c)" letter-spacing="2">FRONT-END</text><text class="mono rise a2" x="154" y="64" font-size="15" fill="var(--c)">React · HTML · CSS</text><text class="mono rise a3" x="48" y="96" font-size="12" fill="var(--c)" letter-spacing="2">BACK-END</text><text class="mono rise a3" x="154" y="96" font-size="15" fill="var(--c)">Node.js · Express · APIs REST</text><text class="mono rise a4" x="48" y="128" font-size="12" fill="var(--c)" letter-spacing="2">DADOS</text><text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--c)">MySQL · modelagem relacional</text><text class="mono rise a5" x="48" y="160" font-size="12" fill="var(--c)" letter-spacing="2">DEVOPS</text><text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--c)">Git · GitHub · Docker</text><text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--c)" letter-spacing="2">IA / DADOS</text><text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--c)">Python · análise · machine learning (estudando)</text><text class="mono rise a7" x="48" y="224" font-size="12" fill="var(--c)" letter-spacing="2">FERRAMENTAS</text><text class="mono rise a7" x="154" y="224" font-size="15" fill="var(--c)">VS Code · Postman · Figma</text>
+</svg>

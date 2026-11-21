@@ -19,10 +19,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg" /><img src="assets/s01.svg" alt="01 — whoami" width="100%" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg" /><img src="assets/whoami.svg" alt="Sobre mim" width="100%" /></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg" /><img src="assets/s02.svg" alt="02 — projetos" width="100%" /></picture>
-<a href="https://github.com/brodyandre/churninsight-nocountry"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projetos.svg" /><img src="assets/projetos.svg" alt="Projetos" width="100%" /></picture></a>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg" /><img src="assets/s03.svg" alt="03 — telemetria" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg" /><img src="assets/s03.svg" alt="02 — telemetria" width="100%" /></picture>
 
 <div align="center">
 
@@ -42,7 +39,7 @@
 
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg" /><img src="assets/s04.svg" alt="04 — stack" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg" /><img src="assets/s04.svg" alt="03 — stack" width="100%" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg" /><img src="assets/stack.svg" alt="Stack técnica" width="100%" /></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg" /><img src="assets/footer.svg" alt="Status: em movimento" width="100%" /></picture>

@@ -22,6 +22,6 @@
     
   </style>
 
-  <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--c)">Estudante de Engenharia de Software.</text>
-  <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--c)">Construindo full-stack — JavaScript, TypeScript, React, Node.js, Python.</text>
+  <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--c)">Software Engineering.</text>
+  <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--c)">Full-stack Developer— JavaScript, TypeScript, React, Node.js, Python.</text>
 </svg>

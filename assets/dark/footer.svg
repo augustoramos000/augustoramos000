@@ -23,9 +23,6 @@
   </style>
 
   <line class="draw" x1="48" y1="24" x2="952" y2="24" stroke="var(--c)" stroke-width="1"/>
-  <circle class="ring" cx="60" cy="60" r="5" stroke="var(--c)" stroke-width="1" fill="none"/>
-  <circle class="dot" cx="60" cy="60" r="4" fill="var(--c)"/>
-  <text class="mono" x="82" y="58" font-size="12" fill="var(--c)" letter-spacing="3">STATUS — EM MOVIMENTO, ESCREVENDO O PRÓXIMO COMMIT</text>
-  <text class="mono" x="82" y="80" font-size="11" fill="var(--c)" letter-spacing="2">Construindo, evoluindo e sempre aberto a uma boa conversa.</text>
-  <text class="mono" x="952" y="64" font-size="15" fill="var(--c)" text-anchor="end">GitHub @augustoramos000 &#160;&#160;·&#160;&#160; © 2026</text>
+  <text class="mono" x="48" y="72" font-size="15" fill="var(--c)">GitHub @augustoramos000</text>
+  <text class="mono" x="952" y="72" font-size="15" fill="var(--c)" text-anchor="end">© 2026</text>
 </svg>

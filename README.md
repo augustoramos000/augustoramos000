@@ -42,4 +42,4 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg" /><img src="assets/s04.svg" alt="03 — stack" width="100%" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg" /><img src="assets/stack.svg" alt="Stack técnica" width="100%" /></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg" /><img src="assets/footer.svg" alt="Status: em movimento" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg" /><img src="assets/footer.svg" alt="Rodapé — GitHub @augustoramos000" width="100%" /></picture>
